@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+.env
+.env.local
+.env.*.local
+.private
+frontend/node_modules/
+frontend/dist/
+backend/node_modules/
+backend/*.log
+backend.log
+.idea/
+.vscode/
+.vite/

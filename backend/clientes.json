@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ljqqnfku6afmn5ar6qr",
+    "nome": "Maria Santos",
+    "cpf": "123.456.789-00",
+    "telefone": "(21) 98765-4321",
+    "dataNascimento": "1995-03-20",
+    "dataCadastro": "2026-03-25T00:19:59.331Z"
+  },
+  {
+    "id": "avvoyeq4h4mn5aresu",
+    "nome": "Pedro Oliveira",
+    "cpf": "987.654.321-00",
+    "telefone": "(11) 99876-5432",
+    "dataNascimento": "1988-07-10",
+    "dataCadastro": "2026-03-25T00:20:09.774Z"
+  },
+  {
+    "id": "txmrf6y5grqmn5arevi",
+    "nome": "Ana Costa",
+    "cpf": "456.789.123-00",
+    "telefone": "(85) 99999-8888",
+    "dataNascimento": "2000-12-25",
+    "dataCadastro": "2026-03-25T00:20:09.870Z"
+  },
+  {
+    "id": "3rq06cfd19qmn5eb44i",
+    "nome": "joao",
+    "cpf": "999.999.999-99",
+    "telefone": "(99) 99999-9999",
+    "dataNascimento": "2001-01-01",
+    "dataCadastro": "2026-03-25T01:59:27.891Z"
+  }
+]
